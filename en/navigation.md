@@ -22,13 +22,16 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 [Characters]()
-  * # Main Cast
-  * [Noria](pages/Noria.md)
-  * [Carissa](pages/Carissa.md)
-  ----
-  * [Other Characters](pages/OtherCharacters.md)
+
+  # Main Cast
+  [Noria](pages/Noria.md)
+  [Carissa](pages/Carissa.md)
+  - - - -
+  [Other Characters](pages/OtherCharacters.md)
+
 [Countries]()
-  * [Great Willowshire](pages/GreatWillowshireInfo.md)
+
+  [Great Willowshire](pages/GreatWillowshireInfo.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
