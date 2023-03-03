@@ -31,6 +31,10 @@ Those of the Ironfist Order can be found almost everywhere, serving as frontline
 The most recent of the orders to be founded, yet also one of the most famous, and a favorite of young knights and horse girls. The Order of the Stormrider's founding follows a greatly mythologized (and greatly debated) story of the Stormrider Knight charging atop their steed into a raging thunderous storm, emerging days later after having dissipated and destroyed it from the inside out. Members of this order are versed in pole weapons, like spears and halberds, and are given unique training in horseback riding and combat, each being given a specialized horse to grow and train alongside.
 Stormrider knights are the go-tos for many campaigns and expeditions given their mobility and ability to provide additional carry strength (with their horses), but they also serve as first responders to unforeseen crises within the nation.
 
+___
+
+## Greater Knights
+
 Beyond the 3 major Orders of Knights, there are two groups of knights deemed the highest caliber, the cream of the crop. Those selected to become Knight Lords are generally only chosen from these distinct groups, being:
 
 #### Citadel Knights
