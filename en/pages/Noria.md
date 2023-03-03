@@ -2,9 +2,8 @@
 
 ___
 
-![[NORIA2TRANS.png]]
+[[NORIA.png]]
 
-#MainCast #Female #Volken #GreatWillowshire 
 ___
 
 #### General Information
@@ -15,7 +14,6 @@ ___
 **Height**: 160cm
 **Weight**: 60kg
 **Birthday**: 26th August
-**Favorite Food**: Sugary Foods, Pilk
 
 **Country of Origin**: Kholsvyck
 **Residency**: South Deepwoods (former)
@@ -54,22 +52,6 @@ Due to her years of leaping, running, and hunting through the Deepwoods of Great
 
 ___
 
-#### Relationships
-
-**[[Carissa]]**
-> You aren't... closing yourself off again...! I won't leave you alone like this, Carissa! Please, take my hand!
-
-**[[Roy Ashwell]]**
-> ...Well, Roy, I guess... I couldn't find the One True King after all, huh? Ehehehe...
-
-**[[Lin Fuyun]]**
-> You want to save them, don't you? Then trust us, Fuyun! We're friends, aren't we!?
-
-**[[Ishmael]]**
-> No matter what you were before, Uncle Ishmael, we'll still be here for you. Just remember... you'll always have a place with us.
-
-**[[Nawa]]**
-> Songs are able to teach us emotions we never knew we had, feelings we could never speak normally... That's what makes it so amazing, you know?
 
 
 
