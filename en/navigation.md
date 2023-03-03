@@ -21,6 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+# Characters
 [Noria](pages/Noria.md)
 
 <!-- A more complex navigation example: ----------------------------------------
