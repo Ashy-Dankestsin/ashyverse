@@ -1,7 +1,7 @@
->*...Perhaps I have wallowed in my sorrows long enough. If it is to stand at your side, then so be it. My children, may you watch over your foolish mother, this one last time...*
+>*Daring, aren't you? To call upon my name for your quest. Nevertheless, I suppose I have wallowed for long enough. If you will have me at your side, then so be it.*
 
 ___
-![](https://i.imgur.com/JQBYtsv.png "Carissa")
+![](https://i.imgur.com/xuYAteI.png "Carissa")
 
 
 

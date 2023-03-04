@@ -1,4 +1,4 @@
-![](https://i.imgur.com/JyG2hYt.png "Willowshire Crest")
+![](https://i.imgur.com/0wLXs5N.png "Willowshire Crest")
 >*United as one around our round table, we await our King upon a gilded throne. We are founded under the moonlit blade of the First Knight, and consecrated in the mystics of the Fae. From amidst the woodlands of yore, we stand joyous as our capital, resolute as the tides, in the embrace of our Lake Mother. Glory to our home, Great Willowshire.* 
 
 A nation founded by the Clearsword Knight Lancelot, a nomadic knight later known as the First Knight, who united his birthplace's war-torn hamlets into a flourishing kingdom. Known to the outside world as the Forested Kingdom of Knights, it is a country founded on values of chivalry and knighthood, and many of its citizens pride themselves on their unity and powerful knights. 

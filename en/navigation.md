@@ -20,7 +20,10 @@
   -->
 
 [Atheria](pages/Atheria.md)
-[Download](pages/download.md)
+[Magic]()
+
+  * [The Language of Magic](pages/TheLanguageofMagic.md)
+  * [The Song of Magic](pages/TheSongofMagic.md)
 [Main Cast]()
 
   * [Noria](pages/Noria.md)

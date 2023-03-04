@@ -1,1 +1,1 @@
-![](https://i.imgur.com/8bS9xSF.png "Atherian Map")
+![](https://i.imgur.com/MJ2ivaz.png "Atherian Map")
