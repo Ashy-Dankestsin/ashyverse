@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
+[Atheria](pages/Atheria.md)
 [Download](pages/download.md)
 [Main Cast]()
 

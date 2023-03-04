@@ -2,7 +2,7 @@
 
 ___
 
-[[NORIA.png]]
+![](https://i.imgur.com/29LLjIe.png "Noria")
 
 ___
 

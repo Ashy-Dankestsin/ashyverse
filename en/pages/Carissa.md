@@ -1,7 +1,7 @@
 >*...Perhaps I have wallowed in my sorrows long enough. If it is to stand at your side, then so be it. My children, may you watch over your foolish mother, this one last time...*
 
 ___
-![[CARISSA.png]]
+![](https://i.imgur.com/JQBYtsv.png "Carissa")
 
 
 
