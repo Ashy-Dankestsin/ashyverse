@@ -1,3 +1,5 @@
+# The Song of Magic
+
 >*"One would think it logical that where language exists, song must as well. This is no philosophical concept; songs are universal, that is all. Thusly, the Language of Magic must also have its analogue... Apologies. I must stop here. I feel strangely tired..."*
 >Diary of Amii, 32nd and Final Chief of Pulagunu
 

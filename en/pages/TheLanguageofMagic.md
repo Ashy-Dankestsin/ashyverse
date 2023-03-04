@@ -1,3 +1,5 @@
+# The Language of Magic
+
 >*"Our first step to understanding the true nature of the Language of Magic is to decode what was left behind by its true speakers; That is, humanity. What was their everyday life is seen as a miracle to the rest of the world, and perhaps the only way we can come to understand it, is by looking into our own selves."* - Silver Sage Mahal, *The Language of Magic Volume 1*
 
 In the distant past, the words spoken by Humanity carried a mysticism and power unlike any other language in all of Orbis. The weight of its words, the strength of its text, all was of limited understanding in the ancient world. However, through the arduous research of many scholars throughout the centuries, the foundation of the language has become normality across the world.

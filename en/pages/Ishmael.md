@@ -1,4 +1,6 @@
->*We all 'ave our burdens to bear, and nobody should be more responsible for it than yourself. So, no matter what, I'll avenge 'em. If I gave in... I'd lose the last part o' me that lives!*
+# Ishmael
+
+>*Wasting away my life? Wahaha! That's a rough way to put it. Can't say you're wrong, but I also can't say I care. I'm too old to bother with consequences anymore.*
 
 ___
 

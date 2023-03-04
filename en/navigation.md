@@ -20,14 +20,20 @@
   -->
 
 [Atheria](pages/Atheria.md)
+
 [Magic]()
 
   * [The Language of Magic](pages/TheLanguageofMagic.md)
   * [The Song of Magic](pages/TheSongofMagic.md)
+
 [Main Cast]()
 
   * [Noria](pages/Noria.md)
   * [Carissa](pages/Carissa.md)
+  * [Roy Ashwell](pages/RoyAshwell.md)
+  * [Lin Fuyun](pages/LinFuyun.md)
+  * [Ishmael](pages/Ishmael.md)
+  * [Nawa](pages/Nawa.md)
 
 [Other Characters](pages/OtherCharacters.md)
 
