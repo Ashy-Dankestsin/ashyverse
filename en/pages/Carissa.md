@@ -5,8 +5,6 @@
 ___
 ![](https://i.imgur.com/xuYAteI.png "Carissa")
 
-
-
 ___
 
 #### General Information
@@ -16,7 +14,8 @@ ___
 **Age**: ~1000, Physically 39
 **Height**: 189cm
 **Weight**: 72kg
-**Birthday**: 22nd April
+**Birthday**: 21st March
+**Favorite Food**: Salad
 
 **Country of Origin**: Great Willowshire
 **Residency**: Southwest Deepwoods (former), Woodwake Village (former)

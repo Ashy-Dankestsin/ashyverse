@@ -14,7 +14,7 @@ ___
 **Age**: 15
 **Height**: 140cm (without tail), 180cm (with tail)
 **Weight**: 
-**Birthday**: 31st August
+**Birthday**: 21st June
 
 **Country of Origin**: Nagabula Isles
 **Residency**: Pulagunu (former)

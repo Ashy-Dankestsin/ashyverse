@@ -3,7 +3,6 @@
 >*I want to see it for myself! Everything my mentor wrote in this journal, it's all there, right? With my friends... I'm going to see the world she saw, the world she cherished!*
 
 ___
-
 ![](https://i.imgur.com/29LLjIe.png "Noria")
 
 ___
@@ -15,7 +14,8 @@ ___
 **Age**: 19
 **Height**: 160cm
 **Weight**: 60kg
-**Birthday**: 26th August
+**Birthday**: 14th October
+**Favorite Food**: Sugary Foods, Pilk
 
 **Country of Origin**: Kholsvyck
 **Residency**: South Deepwoods (former)

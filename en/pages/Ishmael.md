@@ -14,7 +14,8 @@ ___
 **Age**: 187 (40 in overworld standards)
 **Height**: 265cm
 **Weight**: 145kg
-**Birthday**: 1st October
+**Birthday**: 8th June
+**Favorite Food**: Shrimp, Beer
 
 
 **Country of Origin**: Old Altum

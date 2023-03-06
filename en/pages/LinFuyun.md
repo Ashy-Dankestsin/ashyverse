@@ -14,7 +14,7 @@ ___
 **Age**: 24
 **Height**: 176cm
 **Weight**: 70kg
-**Birthday**: 12th February
+**Birthday**: 24th April
 **Favorite Food**: Stir-Fried Vegetables
 
 **Country of Origin**: Sky Mother's Domain
