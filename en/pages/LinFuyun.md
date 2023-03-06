@@ -3,7 +3,7 @@
 >*For you to believe in me, I've got no choice but to trust you, right? ...Hah? I didn't mean it as a threat! Am I that scary!?*
 
 ___
-
+![](https://i.imgur.com/PagANy8.png "Lin Fuyun")
 
 ___
 
