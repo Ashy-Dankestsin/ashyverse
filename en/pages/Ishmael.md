@@ -24,7 +24,7 @@ ___
 ___
 
 #### Personality and History
-Once the captain of Old Altum's 3rd Naval Company, the distinguished seafarer Forneus was framed when the Elder King vanished, and he and his company were wiped out in an ensuing battle. Believed to be dead, the Seafolk had survived and dragged himself to shore, where he would lay in hiding to recover, plotting his vengeance. Abandoning his name, he became a reclusive hermit, eventually finding his way to Sky Mother's Domain, where he would encounter a young Volken girl. From here, he would be dubbed a new name: Ishmael.
+Once the captain of Old Altum's 3rd Naval Company, the distinguished seafarer Ishmael was framed when the Elder King vanished, and he and his company were wiped out in an ensuing battle. Believed to be dead, the Seafolk had survived and dragged himself to shore, where he would lay in hiding to recover, plotting his vengeance. He became a reclusive hermit, eventually finding his way to Sky Mother's Domain, where he would encounter a young Volken girl.
 
 Despite his brutal history, Ishmael comes off as a very jovial and laid-back individual. A particular fan of bad jokes, he describes himself as "simply too old to care much", and makes no effort in presenting himself the way he had as a young and vicious captain. Always a friend to those around him, he can be described as everyone's favorite uncle. Though his sense of nobility has long vanished, his booming voice and large frame makes him a rather easy person to notice. Even so, he retains his sense of honor, and never leaves promises unchecked. Indeed, it seems like the only thing he ever takes seriously.
 
