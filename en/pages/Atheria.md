@@ -1,1 +1,1 @@
-![](https://i.imgur.com/MJ2ivaz.png "Atherian Map")
+![](https://i.imgur.com/nVUcqNc.jpg "Continental Atheria Map")

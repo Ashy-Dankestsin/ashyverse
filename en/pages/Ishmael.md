@@ -3,7 +3,7 @@
 >*Wasting away my life? Wahaha! That's a rough way to put it. Can't say you're wrong, but I also can't say I care. I'm too old to bother with consequences anymore.*
 
 ___
-
+![](https://i.imgur.com/PcQSE5e.png "Ishmael")
 
 ___
 

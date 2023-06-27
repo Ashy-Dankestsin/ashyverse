@@ -3,7 +3,7 @@
 >*Daring, aren't you? To call upon my name for your quest. Nevertheless, I suppose I have wallowed for long enough. If you will have me at your side, then so be it.*
 
 ___
-![](https://i.imgur.com/xuYAteI.png "Carissa")
+![](https://i.imgur.com/fB3VGV5.png "Carissa")
 
 ___
 
