@@ -18,8 +18,8 @@ ___
 **Favorite Food**: Stir-Fried Vegetables
 
 **Country of Origin**: Sky Mother's Domain
-**Residency**: Yulong County (former)
-**Affiliation**: Noria, Royal Faction of Autumn (former)
+**Residency**: Tianmu Royal Capital (former)
+**Affiliation**: Noria, Spring Wind (former)
 
 ___
 

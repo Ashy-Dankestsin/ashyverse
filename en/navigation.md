@@ -33,7 +33,7 @@
   * [Roy Ashwell](pages/RoyAshwell.md)
   * [Lin Fuyun](pages/LinFuyun.md)
   * [Ishmael](pages/Ishmael.md)
-  * [Nawa](pages/Nawa.md)
+  * [Nawa of Pulagunu](pages/NawaofPulagunu.md)
 
 [Other Characters](pages/OtherCharacters.md)
 
