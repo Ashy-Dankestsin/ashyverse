@@ -10,7 +10,7 @@ ___
 
 **Species**: Faerie
 **Gender**: Female (She/Her)
-**Age**: ~1050
+**Age**: ~550
 **Height**: 180cm
 **Weight**: 86kg
 **Birthday**: 22nd March
