@@ -41,16 +41,12 @@ ___
 
 #### Skills
 **The Song of Magic (Mastery)**
-
 Nawa, and her hometown by extension, were practitioners of a lost art: The Song of Magic. Where much of magic is derived from speaking in its language, few could claim to sing in its mysterious, voiceless words. Nawa, however, is one such person. Though she keeps it under wraps, she has an incredible talent for vocalizing and forming melodies through the Language of Magic, perhaps an extension of her already latent musical talents. As the Song of Magic hinges on restoration, Nawa provides these talents in the form of healing and medical aide, mending broken bones and vicious slashes through her songs' mysterious properties.
 
-
 **Analytic (Language of Magic)**
-
 While not nearly as experienced as most, Nawa is also a decent analyst of the Language of Magic. Often used for decoding old scripts for song lyrics, her analytical talents have manifested slightly differently due to her lack of eyesight. Determining the shape of symbols through the aide of vocal descriptions (often from another person), she is able to roughly identify its prose and form in relation to the rest of the text, allowing Nawa an imperfect, yet unique interpretation of the lyrics and their meaning.
 
 **Musical Talent**
-
 Nawa is a bonafide musical maestro, and she does not hide it. From strings to percussions to everything in between, she is able to play just about any instrument to a masterful degree. Her personal favorite is the Silver Flute, a traditional woodwind instrument stylized from snakebone. She seems to find the most pride in the traditional instruments of her home country for obvious reasons, and should she be asked on them, Nawa will often launch into hour-long explanations to convey their brilliance.
 
 ___

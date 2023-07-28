@@ -9,6 +9,7 @@ ___
 
 #### General Information
 
+**Regional Title**: The White Whale
 **Species**: Seafolk (Sperm Whale)
 **Gender**: Male (He/Him)
 **Age**: 187 (40 in overworld standards)
@@ -39,11 +40,14 @@ ___
 #### Skills
 **Arham Volum: Nautilus**
 A branch of the ancient Seafolk magic known as Arham Volum, translated roughly to Blackened Seas, Ishmael is a master of the Nautilus stance, focused on using the Black Sea's low density as a shield and barrier against attacks. Utilizing sheer torrential force and high-power currents, he can redirect and defend effectively against attacks of any magnitude, and with his mastery can even fully deflect magical attacks. 
+
 Ishmael is a seasoned frontliner with this technique, but with his mastery comes another aspect, and that is his manipulation of the stance into offense. By reforming the high-intensity water currents he creates, Ishmael can create swirling maelstroms that easily ensnare foes, or summon torrential waters in a tidal wave of force. Using Invocational properties, he is also able to enchant his weapon with similar effect, creating a chainsaw-like whirlpool about his blade that can deflect physical attacks and shred bones all the same.
 
 **Enhanced Physical Stats**
 Owing to his Seafolk lineage, Ishmael possesses incredibly high strength, making him capable of such feats as shattering rocks with his bare hands, as well as swinging around his mighty and massive hunting sword with ease and precision. Combined with his training as a soldier, and the fact that he was recognized as one of Old Altum's finest, it is easy to assume Ishmael is one of the group's strongest fighters. 
+
 Beyond his physical strength, Ishmael also boasts superhuman endurance and bulk. A natural-born tank, he can take blow after blow without so much as a flinch, his thick skin providing him with high resistance to blunt attacks. He is, however, more susceptible to sharp attacks, although even these don't seem to phase him much.
+
 Due to his large frame and muscle mass, however, Ishmael has traded off a core physical trait: speed. Although he can react and attack quickly, his focus has certainly been on bulk over blitz, and foes focused more on quick strikes may overwhelm him.
 
 **Seafaring Knowledge**

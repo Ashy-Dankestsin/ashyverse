@@ -40,16 +40,13 @@ ___
 
 #### Skills
 **Language of Magic Mastery**
-
 Noria is incredibly well-versed in the Language of Magic. From intonations to grammar, she is able to recite from heart the intricacies of the language, and apply them masterfully to her everyday life. Though she carries no inherent specialties, unlike most who practice magic verses, Noria is instead able to use almost any words or verses taught to her, making her a powerful Jack-of-all-Trades. 
 
 
 **Analytic (Language of Magic)**
-
 Though slow and airheaded in almost any other situation, Noria possesses an incredible talent for deciphering and decoding spoken magic verses on the fly. This skill makes her a major threat in any magic fight, as simply through a few interactions, she is able to quickly decipher and counter most forms of magic thrown her way. Additionally, this talent allows for her to very quickly grasp new words she may not have known. It is no understatement to say that Noria may well be a Master in the art of analyzing the Language of Magic.
 
 **Athletic**
-
 Due to her years of leaping, running, and hunting through the Deepwoods of Great Willowshire, Noria has developed a rather impressive physique, capable of withstanding a decent amount of strenuous activity. She is also shockingly nimble, able to clear long distances in single sprints or leaps. 
 
 ___

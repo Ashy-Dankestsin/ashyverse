@@ -39,17 +39,14 @@ ___
 
 #### Skills
 **Du Lac Swordsmanship: Anti-Combat Arts**
-
 As per the standard curriculum of any young adult in Great Willowshire, Roy has been trained in the nation's unique Du Lac Swordsmanship. Granted a vial of enchanted water, Roy is capable of manifesting water-based slashing attacks in combat, used in conjunction with sword training. Roy himself dropped out fairly early into his training, but still possesses an intermediate level of swordfighting, his personal focus having been in pacifistic disarming techniques. 
 
 **Language of Magic: Fire**
-
 Roy is not well-learned on much of the Language of Magic, only knowing key terms taught under Great Willowshire. He is, however, decently skilled in his own family's specialty, that being Fire-based Invocations. Infusing his weapons and the surrounding air with fire, Roy brandishes his flames in combat, often used as a deterrent, even being capable of heating up enemy weapon hilts to disarm them.
 
 Though he specializes in Invocation, Roy is also able to Evoke fire, albeit at a lesser degree than through Invocation. 
 
 **Domestic Skills**
-
 Roy has an exceptional repertoire of domestic skills and talents, ranging from efficient laundry to incredible cooking. His experience living alone has created a man capable of handling any domestic affair in a household with lightning-fast speed, both inside or out of the house. He himself does not seem shy about his talents, and embraces them with all the smugness and haughtiness of a pampered cat. No one can refute his talents, though.
 
 ___

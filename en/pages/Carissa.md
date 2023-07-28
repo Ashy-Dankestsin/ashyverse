@@ -9,9 +9,10 @@ ___
 
 #### General Information
 
+**Regional Title**: Great Faerie of the Deepwoods
 **Species**: Faerie
 **Gender**: Female (She/Her)
-**Age**: ~500, Physically 39
+**Age**: ~1050, Physically 39
 **Height**: 189cm
 **Weight**: 72kg
 **Birthday**: 21st March
@@ -38,13 +39,11 @@ ___
 
 #### Skills
 **Language of Magic**
-
 Being part of the ancient race of Faerie, Carissa possesses an inherent knowledge of the Language of Magic, not found in most practitioners of magecraft. Through her rather long lifespan, she has garnered a deep vocabulary of words and phrases, but her own seclusion to the Deepwoods has left Carissa somewhat unknowledgeable of more modern terms.
 
 Carissa's own specialization in the Language of Magic is plant growth and vinework, manipulating the very soil and natural order around her. Roots and thorned vines are her specialty, but she is also capable of calling forth large amounts of foliage and other manner of plantlife. In most cases, she will often use her roots and vines to ensnare and lash out at approaching foes, as well as repositioning through the earth using a root-like network, making Carissa a rather disorienting combatant to fight. 
 
 **Embodiment of the Woods**
-
 As is inherent of all Faeries, Carissa is an Embodiment, specifically of woodlands. Her existence is inherently tied to forests and plantlife, and to remain close to such elements provides a massive boon to her vitality and strength. Communion with the unheard voices of the trees is also possible for her, granting Carissa a nigh-infinite surveillance system to which she can access in any wooded area. However, the inverse is also possible. In places without natural plantlife, Carissa will grow significantly weaker, often becoming lethargic and hazy in the most extreme cases, incapable of even speaking words, let alone casting spells.
 
 ___
