@@ -42,3 +42,5 @@ Beyond just combat purposes, Rhia has mastered the arts of anti-combat swordplay
 
 **Language of Magic: Water**
 Though expected of those who practice Du Lac Swordsmanship, the strength of Rhia's water-based magics are still a sight to behold. Coating her rapier in torrential waves through Invocation, it is not unlike the ingenuity of the Seafolk to transform one's weapon into a raging sea storm. Along with this, she also has great talent in Evocation, conjuring great tidal waves that she surfs upon in combat, enveloping enemies and disorienting entire platoons with the surge of water. This skill in particular is what has earned her the title of "The Wavebreaker Knight".
+
+It is notable that her wave-surfing is not an oft-seen technique of Rhia's in combat. This is mainly due to the fact that she dislikes getting wet, especially her tail, and she has taught herself as many ways as possible to fight to avoid ever getting any water unto her person.
