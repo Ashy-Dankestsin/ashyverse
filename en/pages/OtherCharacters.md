@@ -11,6 +11,7 @@
 [![Luther Armstrong](https://i.imgur.com/cjNa7O9.png)](LutherArmstrong.md)
 
 [![Donna Ragnulf](https://i.imgur.com/p59wBPH.png)](DonnaRagnulf.md)
+[![Oliver Doveblossom](https://i.imgur.com/toyz4Zg.png)](OliverDoveblossom.md)
 [![Nimue](https://i.imgur.com/yWQZHWF.png)](Nimue.md)
 [![Titania](https://i.imgur.com/AH4gq69.png)](Titania.md)
 
