@@ -55,7 +55,7 @@ Matched in authority with the Citadel Knights are the Campaign Knights, the orde
 
 Mountainsplitter Knight - tasked with exploration of the Aster Plains, focusing on the Highlands
 Ironheart Knight - tasked with exploration of the Aster Plains, focusing on the Northern Plains
-Hollowflame Knight - tasked with exploration of the Friga Barrenlands, southwest of Kholsvyck
+Hollowflame Knight - tasked with exploration of the Friga Barrenlands, southwest of Grand Boreas
 Deathmourn Knight - tasked with exploration of the rumored location of Old Altum, east of Lost Astora
 Starfall Knight - tasked with exploration of the Drachen Ancestral Valley, under supervision of the Judiciary
 
