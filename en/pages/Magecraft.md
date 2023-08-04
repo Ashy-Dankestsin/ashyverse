@@ -9,7 +9,12 @@ At its core, Magecraft is split into 3 levels: Fundamental, Intermediate, and Ad
 ## Fundamental
 
 
-![alt text](https://i.imgur.com/dsIoCIs.png "Logo Title Text 1") >*"A outward manifestation of the form and soul of a True Name, called on by vocalization. One could consider it a forceful alteration of physical space, a bending of natural law by words to serve your will."* - Silver Sage Mahal, *Evocation: Principles and Logic*
+![alt text](https://i.imgur.com/dsIoCIs.png "Logo Title Text 1") **Evocation**
+
+>*"A outward manifestation of the form and soul of a True Name, called on by vocalization. One could consider it a forceful alteration of physical space, a bending of natural law by words to serve your will."* - Silver Sage Mahal, *Evocation: Principles and Logic*
+**Magic Type**: Fundamental
+**Magic Form**: The Language of Magic
+**Specialization**: Creation of Known Elements
 
 Of the methods of manipulating the Language of Magic, Evocation is the most standard form, that being the act of calling out the True Name of an element and manipulating its manifested form in whichever way the user desires. This process, dubbed Evoking, is used worldwide in anything from household applications to high-tier combat. 
 
