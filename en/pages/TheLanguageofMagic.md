@@ -13,7 +13,8 @@ Linguistically, the Language of Magic is best described as a jumble of indiscern
 
 ## True Names
 
->*"Hard as it may be to imagine, every living being when birthed seems to be given a name. Not the names by which our mothers and fathers grant upon us, but from a greater power entirely. Such impossibilities are the foundation of the Language of Magic. Thus, let us dub them... True Names."* - Silver Sage Mahal, *The Language of Magic Volume 1* 
+>*"Hard as it may be to imagine, every living being when birthed seems to be given a name. Not the names by which our mothers and fathers grant upon us, but from a greater power entirely. Such impossibilities are the foundation of the Language of Magic. Thus, let us dub them... True Names."* 
+>- Silver Sage Mahal, *The Language of Magic Volume 1* 
 
 From the moment of one's birth, an invisible, unknowable title is cast upon them. Be they mortal or immortal, material and immaterial, it matters not. A rock may have a True Name in much the same way a Volken would. To truly grasp the Language of Magic, one must grasp True Names, first. Based on contemporary research and accepted theorems, every True Name, unique to its owner, is composed of massive strings of text, very often ever going below 10 words. From there, they can be further classified into two distinct forms of True Names: Foundational and Compositional.
 
@@ -31,11 +32,21 @@ While rare, there are many documented cases where an individual may be born, or 
 
 ## Will
 
->*"Those who possess True Names, may eventually come to understand themselves, and feel themselves. It is the truest form of oneself, sentience manifest. It is what we like to call... our Will."* - Silver Sage Norma Ava, *Will and the Language of Magic*
+>*"Those who possess True Names, may eventually come to understand themselves, and feel themselves. It is the truest form of oneself, sentience manifest. It is what we like to call... our Will."* 
+>- Silver Sage Norma Ava, *Will and the Language of Magic*
 
 A mysterious power both intrinsic and separate from the Language of Magic, the Will of any being denotes its ability to persevere. It is a very literal measure of their soul's strength, the desire to thrive, and a manifestation of their deepest prayers. It is through the power of the WIll that any unliving bearer of a True Name may gain an imperfect sentience, brought on by this strange power. It is the principle which several forms of Magic are built off of, and the Spectrum phenomenon also seems deeply tied to it. Why is exists, however, is a mystery all the same.
 
+## [Magecraft](Magecraft.md)
+The use of the Language of Magic in day-to-day life is often termed Magecraft by the masses. Through various methods, the Language can be channeled in order to accomplish basically any task. Magecraft itself, however, is far from simple, and follows a branching pathway that becomes more and more complex the further down you go. 
 
-## [[Magecraft draft]]
 
-Following the above rules on the usage of True Names and the Language of Magic, various unique and distinctive forms of Magic are used widely throughout the world, all of whom are still practiced in the modern day.
+
+
+[![Language of Magic](https://i.imgur.com/FrBQmxj.png)](TheLanguageofMagic.md)
+
+[![Song of Magic](https://i.imgur.com/l2IDv8J.png)](TheSongofMagic.md)
+
+[![Art of Magic](https://i.imgur.com/o8dPhxH.png)](TheArtofMagic.md)
+
+[![Arham Volum](https://i.imgur.com/RhOOaxN.png)](ArhamVolum.md)
