@@ -44,9 +44,6 @@ The use of the Language of Magic in day-to-day life is often termed Magecraft by
 ## Forms of Magic
 
 [![Language of Magic](https://i.imgur.com/FrBQmxj.png)](TheLanguageofMagic.md)
-
 [![Song of Magic](https://i.imgur.com/l2IDv8J.png)](TheSongofMagic.md)
-
 [![Art of Magic](https://i.imgur.com/o8dPhxH.png)](TheArtofMagic.md)
-
 [![Arham Volum](https://i.imgur.com/RhOOaxN.png)](ArhamVolum.md)
