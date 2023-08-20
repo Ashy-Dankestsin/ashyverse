@@ -41,7 +41,7 @@ A mysterious power both intrinsic and separate from the Language of Magic, the W
 The use of the Language of Magic in day-to-day life is often termed Magecraft by the masses. Through various methods, the Language can be channeled in order to accomplish basically any task. Magecraft itself, however, is far from simple, and follows a branching pathway that becomes more and more complex the further down you go. 
 
 
-
+## Forms of Magic
 
 [![Language of Magic](https://i.imgur.com/FrBQmxj.png)](TheLanguageofMagic.md)
 
