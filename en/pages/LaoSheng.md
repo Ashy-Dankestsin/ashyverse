@@ -14,10 +14,9 @@ ___
 **Height**: 186cm
 **Weight**: 92kg
 **Birthday**: 29th November
-**Favorite Food**: Chicken Feet
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Tianmu Royal Capital
-**Affiliation**: Royal Lineage of the Sky Mother, Autumnal Earth
+**Affiliation**: Eternity Guard, Tianmu Royal Court
 
 ___

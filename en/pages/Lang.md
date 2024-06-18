@@ -8,16 +8,16 @@ ___
 
 #### General Information
 
+**Regional Title**: The Praying Mantis
 **Species**: Khepri (Praying Mantis)
 **Gender**: Non-Binary (They/Them/He/Him)
-**Age**: ~200
+**Age**: ~500
 **Height**: 200cm
 **Weight**: 60kg
 **Birthday**: 1st ???
-**Favorite Food**: None
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Royal Mausoleum
-**Affiliation**: Autumnal Earth
+**Affiliation**: Eternity Guard
 
 ___

@@ -14,10 +14,9 @@ ___
 **Height**: 170cm
 **Weight**: 61kg
 **Birthday**: 4th May
-**Favorite Food**: Cereal
 
 **Country of Origin**: Great Willowshire
-**Residency**: Stromfront Town
+**Residency**: Tempestward
 **Affiliation**: House Branwen, Judiciary Unit 4
 
 ___

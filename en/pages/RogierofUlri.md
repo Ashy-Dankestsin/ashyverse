@@ -8,13 +8,13 @@ ___
 
 #### General Information
 
+**Regional Title**: Artless Knight, Deathsayer Knight (former)
 **Species**: Kadali (Saltwater Crocodile)
 **Gender**: Male (He/Him)
 **Age**: 31
 **Height**: 188cm
 **Weight**: 83kg
 **Birthday**: 17th June
-**Favorite Food**: Salted Fish
 
 **Country of Origin**: Great Willowshire
 **Residency**: Carisellia
@@ -27,11 +27,11 @@ A somewhat mysterious figure within the ranks of Great Willowshire's Senior Knig
 
 A calm and collected man, Rogier has chosen to take life at a slow and comfortable pace. Long burnt out on the politics of his nation, he seems to never have a worry on his mind, and spends much of his time on menial chores and small hobbies. Though still young in the eyes of many, he has nevertheless gained much wisdom in his time, which he never hesitates to impart onto those younger than him. 
 
-Thanks to his laid-back attitude, very few hold him in much high regard, seeing it as a sign of laziness, or perhaps demotivation. Rogier thinks very little of these things; really, he doesn't think about them at all. A proponent of "Knighthood is freedom", his carefree attitude is just his own way of following his idealogy, and one he holds in high regard. 
+Thanks to his laid-back attitude, very few hold him in much high regard, seeing it as a sign of laziness, or perhaps demotivation. Rogier thinks very little of these things; really, he doesn't think about them at all. A proponent of "Knighthood is freedom", his carefree attitude is just his own way of following his ideology, and one he holds in high regard. 
 
 Despite this, he is still capable of doing good work when required. In particular, he seems to have a talent for teaching, and several young knights who have been tutored under him speak nothing but praise for his effective methods. Indeed, Rogier himself has a small passion for training new squires in the field, seeing it as the best way to pass his legacy onto the next generation. As of now, he is the acting mentor to the young squire Joan Laurent, who he treats almost as a little sister.
 
-One strange facet of Rogier is his personal creed to never use the Language of Magic. It is unknown what ocurred in his past to spur such a strange personal rule, but it is one of few things he seems sorely adamant about, despite his own personal talent at the craft.
+One strange facet of Rogier is his personal creed to never use the Language of Magic. It is unknown what occurred in his past to spur such a strange personal rule, but it is one of few things he seems sorely adamant about, despite his own personal talent at the craft.
 
 
 ___

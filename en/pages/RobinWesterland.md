@@ -14,10 +14,9 @@ ___
 **Height**: 174cm
 **Weight**: 77kg
 **Birthday**: 6th August
-**Favorite Food**: Scarlet Flower Soup
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Tianmu Royal Capital
-**Affiliation**: Autumnal Earth
+**Affiliation**: Eternity Guard
 
 ___

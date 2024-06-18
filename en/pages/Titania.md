@@ -14,7 +14,6 @@ ___
 **Height**: 159cm
 **Weight**: 60kg
 **Birthday**: 24th June
-**Favorite Food**: None
 
 **Country of Origin**: Great Willowshire
 **Residency**: None

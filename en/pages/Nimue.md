@@ -15,7 +15,6 @@ ___
 **Height**: 180cm
 **Weight**: 86kg
 **Birthday**: 22nd March
-**Favorite Food**: Herbal Tea
 
 **Country of Origin**: Great Willowshire
 **Residency**: Great Lake, Broceliande Forest

@@ -15,7 +15,6 @@ ___
 **Height**: 208cm
 **Weight**: 89kg
 **Birthday**: 23rd August
-**Favorite Food**: Stewed Berry Soup
 
 **Country of Origin**: Great Willowshire
 **Residency**: Southwest Joyous Gard
@@ -24,7 +23,7 @@ ___
 ___
 
 #### Personality and History
-Eldest daughter of the former Knight Lord The Windrider Knight, Hannah Anil Celestine was born with the expectations that she would take the seat of her mother as Knight Lord when the time came. Although she inherited the talent (and height) of her retiring mother, Hannah herself absolutely lacked the confidence and drive that had been present in the Knight Lords before her, and tried desperately to nominate her younger brother to the position instead. Ultimately, however, her talents were simply too strong to ignore, and she was eventually inducted after some peaceful coercion.
+Eldest daughter of former Knight Lord The Windrider Knight, Hannah Anil Celestine was born with the expectations that she would take the seat of her mother as Knight Lord when the time came. Although she inherited the talent (and height) of her retiring mother, Hannah herself absolutely lacked the confidence and drive that had been present in the Knight Lords before her, and tried desperately to nominate her younger brother to the position instead. Ultimately, however, her talents were simply too strong to ignore, and she was eventually inducted after some peaceful coercion.
 
 Hannah's daunting height belies her timid and demure personality. A coward by heart with a massive aversion to conflict, she struggles a lot to deal with the expectations that have been shouldered onto her ever since her induction. She frequently bursts into minor panic attacks every time adversity makes itself known, and abuses her fleetfooted genes to make quick getaways whenever the need arises. Hannah is, by all means, not a good Knight Lord, and she herself is more than aware.
 

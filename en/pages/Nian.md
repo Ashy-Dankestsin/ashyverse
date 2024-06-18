@@ -8,13 +8,13 @@ ___
 
 #### General Information
 
+**Regional Title**: Bellow of the Mountain
 **Species**: Lung (Qilin)
 **Gender**: Male (He/Him)
 **Age**: ~400
 **Height**: 250cm ; ~5m (True Form)
 **Weight**: 170kg
 **Birthday**: 10th February
-**Favorite Food**: Meat
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Anshen Underground

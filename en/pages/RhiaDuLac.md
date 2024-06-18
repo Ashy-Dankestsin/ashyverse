@@ -15,7 +15,6 @@ ___
 **Height**: 191cm
 **Weight**: 79kg
 **Birthday**: 7th June
-**Favorite Food**: Roast Ham Sandwich
 
 **Country of Origin**: Great Willowshire
 **Residency**: South Joyous Gard

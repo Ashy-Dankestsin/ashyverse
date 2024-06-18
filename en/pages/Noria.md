@@ -15,9 +15,8 @@ ___
 **Height**: 160cm
 **Weight**: 60kg
 **Birthday**: 14th October
-**Favorite Food**: Sugary Foods, Pilk
 
-**Country of Origin**: Kholsvyck
+**Country of Origin**: Grand Boreas
 **Residency**: South Deepwoods (former)
 **Affiliation**: None
 

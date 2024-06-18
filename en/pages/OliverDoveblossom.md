@@ -15,7 +15,6 @@ ___
 **Height**: 182cm
 **Weight**: 80kg
 **Birthday**: 19th April
-**Favorite Food**: Leafy Vegetables
 
 **Country of Origin**: Great Willowshire
 **Residency**: North Joyous Gard

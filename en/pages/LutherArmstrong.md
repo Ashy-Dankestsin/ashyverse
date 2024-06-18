@@ -16,7 +16,6 @@ ___
 **Height**: 265cm
 **Weight**: 172kg
 **Birthday**: 15th May
-**Favorite Food**: Fried Vegetables
 
 **Country of Origin**: Great Willowshire
 **Residency**: Bridgetown

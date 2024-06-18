@@ -14,7 +14,6 @@ ___
 **Height**: 155cm
 **Weight**: 52kg
 **Birthday**: 13th December
-**Favorite Food**: Herbal Corn Soup
 
 **Country of Origin**: Great Willowshire
 **Residency**: Carisellia

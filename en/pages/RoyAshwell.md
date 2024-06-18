@@ -17,7 +17,6 @@ ___
 **Weight**: 75kg
 **Birthday**: 1st January
 
-
 **Country of Origin**: Great Willowshire
 **Residency**: Faery Grove (former)
 **Affiliation**: Noria, Attendant House Ashwell (former)

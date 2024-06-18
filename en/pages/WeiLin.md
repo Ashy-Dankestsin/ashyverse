@@ -14,10 +14,9 @@ ___
 **Height**: 180cm
 **Weight**: 81kg
 **Birthday**: 20th May
-**Favorite Food**: Vegetables
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Jin Tiantang
-**Affiliation**: Silken Heaven Dance Troupe, True Sky
+**Affiliation**: Silken Heaven Dance Troupe
 
 ___

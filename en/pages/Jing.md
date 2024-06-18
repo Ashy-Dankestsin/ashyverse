@@ -14,10 +14,9 @@ ___
 **Height**: 169cm
 **Weight**: 68kg
 **Birthday**: 1st March
-**Favorite Food**: Bamboo Steamed Rice
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Xuanya Bian
-**Affiliation**: Will of the Lowlands, Tianmu Royal Army (former)
+**Affiliation**: Silver Branch, Eternity Guard (formerly)
 
 ___

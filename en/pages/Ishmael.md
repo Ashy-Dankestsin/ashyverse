@@ -16,7 +16,6 @@ ___
 **Height**: 265cm
 **Weight**: 145kg
 **Birthday**: 8th June
-**Favorite Food**: Shrimp, Beer
 
 
 **Country of Origin**: Old Altum

@@ -16,7 +16,6 @@ ___
 **Height**: 189cm
 **Weight**: 72kg
 **Birthday**: 21st March
-**Favorite Food**: Salad
 
 **Country of Origin**: Great Willowshire
 **Residency**: Southwest Deepwoods (former), Woodwake Village (former)

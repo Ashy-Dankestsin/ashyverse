@@ -8,16 +8,16 @@ ___
 
 #### General Information
 
+**Regional Title**: Bloodsteeped Wolf
 **Species**: Volken (Asterian Redmane)
 **Gender**: Female (She/Her)
 **Age**: 45
 **Height**: 195cm
 **Weight**: 102kg
 **Birthday**: 8th November
-**Favorite Food**: Rice
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Tianmu Royal Capital
-**Affiliation**: Spring Wind
+**Affiliation**: Eternity Guard, Tianmu Royal Court
 
 ___

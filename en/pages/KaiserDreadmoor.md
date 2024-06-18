@@ -15,7 +15,6 @@ ___
 **Height**: 238cm
 **Weight**: 136kg
 **Birthday**: 1st February
-**Favorite Food**: Salmon
 
 **Country of Origin**: Great Willowshire
 **Residency**: Central Joyous Gard

@@ -16,11 +16,10 @@ ___
 **Height**: 135cm
 **Weight**: 27kg
 **Birthday**: 25th November
-**Favorite Food**: Fried Frog Leg
 
 **Country of Origin**: Great Willowshire
 **Residency**: Central Joyous Gard
-**Affiliation**: House Ragnulf, 10 Knight Lords
+**Affiliation**: House Ragnulf, 10 Knight Lords, Order of the Stormrider
 
 ___
 

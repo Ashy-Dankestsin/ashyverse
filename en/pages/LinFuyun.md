@@ -15,7 +15,6 @@ ___
 **Height**: 176cm
 **Weight**: 70kg
 **Birthday**: 24th April
-**Favorite Food**: Stir-Fried Vegetables
 
 **Country of Origin**: Sky Mother's Domain
 **Residency**: Tianmu Royal Capital (former)

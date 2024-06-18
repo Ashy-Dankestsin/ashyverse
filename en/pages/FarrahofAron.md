@@ -11,13 +11,12 @@ ___
 **Species**: Eunchi (Brown Mouse)
 **Gender**: Female (She/Her)
 **Age**: 27
-**Height**: 159cm
+**Height**: 149cm
 **Weight**: 51kg
 **Birthday**: 18th September
-**Favorite Food**: Ham and Cheese Sandwich
 
 **Country of Origin**: North Asteria
 **Residency**: Xuanya Bian, Amira del Aron (former)
-**Affiliation**: Will of the Lowlands, North Asterian Golemancy Department (former)
+**Affiliation**: Judiciary Unit 4, Silver Branch, North Asterian Court of Lambs
 
 ___
